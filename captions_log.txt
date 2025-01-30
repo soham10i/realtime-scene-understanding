@@ -1,0 +1,130 @@
+Frame 1.0:
+  Object 1: a black and white photo of a person in the dark
+  Object 2: a black and white cat is standing in the dark
+  Object 3: a black background with a small white dot
+  Object 4: a black background with a white outline
+  Object 5: a black background with a blue and white logo
+  Object 6: a black and white photo of a man in a suit
+  Object 7: a white paper with a black background
+  Object 8: a black background with a white and blue light
+  Object 9: a black background with a blue square
+  Object 10: a white paper with a black background
+  Object 11: the blue light is reflected in the water
+  Object 12: a black background with a blue light
+  Object 13: a blue square with a white line on it
+
+Frame 2.0:
+  Object 1: a black cat is standing in the dark
+  Object 2: a black and white photo of a person with a bottle
+  Object 3: a black background with a small white dot
+  Object 4: a black background with a white outline
+  Object 5: the logo for the new york city
+  Object 6: a black and white photo of a man in a suit
+  Object 7: a white paper with a black background
+  Object 8: a black background with a blue and white logo
+  Object 9: a black background with a blue square
+  Object 10: the earth is seen in this image from space
+  Object 11: a white cat is sitting on a black background
+  Object 12: a blue circle with a white circle on it
+  Object 13: a blue light shining in the dark
+
+Frame 3.0:
+  Object 1: a black cat is looking at the camera
+  Object 2: a black background with a silhouette of a person
+  Object 3: a black background with a small white dot
+  Object 4: a black background with a white outline
+  Object 5: a black background with a blue and white logo
+  Object 6: a clock is lit up in the dark
+  Object 7: a white paper with a black background
+  Object 8: a black background with a blue and white logo
+  Object 9: the blue light is reflected in the water
+  Object 10: a blue square with a white outline
+  Object 11: a black background with a blue and white logo
+  Object 12: a blue circle with a white circle on it
+  Object 13: a white box with a black background
+
+Frame 4.0:
+  Object 1: a black cat is looking at the camera
+  Object 2: a black and white photo of a person in the dark
+  Object 3: a black background with a small white dot
+  Object 4: a black background with a white outline
+  Object 5: a black background with a blue and white logo
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a black background with a white and blue light
+  Object 8: a white and black logo with the words, ' the best of the best '
+  Object 9: the blue light is reflected in the water
+  Object 10: a blue square with a white outline
+  Object 11: a white box with a black background
+  Object 12: a black background with a blue light
+  Object 13: a blue square with a white line on it
+
+Frame 5.0:
+  Object 1: a black cat is looking at the camera
+  Object 2: a black and white silhouette of a man
+  Object 3: a black background with a small white dot
+  Object 4: a black background with a white outline
+  Object 5: a black background with a blue and white logo
+  Object 6: a black and white photo of a man in a suit
+  Object 7: a white and black logo with the words, ' the best of the best '
+  Object 8: a black background with a blue and white logo
+  Object 9: a blue square with a white outline
+  Object 10: the logo for the new yorks
+  Object 11: a black background with a blue and white logo
+  Object 12: a white laptop computer on a black background
+
+Frame 6.0:
+  Object 1: a black cat is looking at the camera
+  Object 2: a black silhouette of a man in a suit
+  Object 3: a black background with a small white dot
+  Object 4: a black background with a white outline
+  Object 5: a clock with a blue face and a black background
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a white paper with a black background
+  Object 8: a black background with a blue and white logo
+  Object 9: the earth is seen in this image from space
+  Object 10: a black background with a blue square
+  Object 11: a black background with a blue and white logo
+  Object 12: a white box with a black background
+
+Frame 7.0:
+  Object 1: a black cat is looking at the camera
+  Object 2: a black and white photo of a person with a bottle
+  Object 3: a black background with a small white dot
+  Object 4: a black background with a white outline
+  Object 5: a black background with a blue and white logo
+  Object 6: a black and white logo with a blue and white logo
+  Object 7: a white paper with a black background
+  Object 8: a black background with a blue and white logo
+  Object 9: a blue square with a white outline
+  Object 10: the earth is seen in this image from space
+  Object 11: a black background with a blue and white logo
+  Object 12: a white laptop with a black background
+
+Frame 8.0:
+  Object 1: a black cat is looking at the camera
+  Object 2: a black background with a bottle of liquid
+  Object 3: a black background with a small white dot
+  Object 4: a black background with a white outline
+  Object 5: a black background with a blue and white logo
+  Object 6: a black and white photo of a man in a suit
+  Object 7: a black background with a white and blue light
+  Object 8: a white paper with a black background
+  Object 9: a blue square with a white outline
+  Object 10: the earth is seen in this image from space
+  Object 11: a white desk with a black background
+  Object 12: a black background with a blue and white logo
+
+Frame 9.0:
+  Object 1: a black cat is looking at the camera
+  Object 2: a black and white photo of a person with a black background
+  Object 3: a black background with a small white dot
+  Object 4: a black background with a white outline
+  Object 5: a black background with a white and blue logo
+  Object 6: a black and white photo of a man in a suit
+  Object 7: a black background with a white and blue light
+  Object 8: a white paper with a black background
+  Object 9: a blue square with a white outline
+  Object 10: the earth is seen in this image from space
+  Object 11: a white laptop with a black background
+  Object 12: a black background with a blue and white logo
+
