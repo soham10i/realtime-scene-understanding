@@ -1,6 +1,6 @@
 # Real-Time Scene Understanding
 
-This project processes a video to detect objects, generate captions for them, and summarize the video content using YOLOv8 and BLIP models.
+This project processes a video to detect objects, generate captions for them, and summarize the video content using YOLOv8 and BLIP and LongFormer models.
 
 ## Prerequisites
 
