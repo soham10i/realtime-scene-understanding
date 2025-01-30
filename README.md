@@ -20,7 +20,7 @@ This project processes a video to detect objects, generate captions for them, an
 1. Set the paths for the model and video in the `main` section of `captions.py`:
 
    ```python
-   model_path = "src/src"
+   model_path = "yolov8n-seg.pt"
    video_path = "classroom_video_01.mp4"
    ```
 2. Run the script:
